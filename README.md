@@ -6,8 +6,8 @@ Legacy HL2 mods common documentation proof of concept (POC) - only for developme
 
 ### Mod repositories
 
-- [Development](mod-repositories/development.md)
-- [Mod Installation](mod-repositories/mod-installation.md)
+- [Development](docs/mod-repositories/development.md)
+- [Mod Installation](docs/mod-repositories/mod-installation.md)
 
 ## Contributing
 
