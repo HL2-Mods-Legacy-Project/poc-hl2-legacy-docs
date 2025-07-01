@@ -5,7 +5,6 @@
 Everything below with the same version or higher:
 
 - [poc-hl2-legacy-installer/built with](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-installer/blob/v1.x/README.md#built-with)
-- [poc-hl2-legacy-utilities/built with](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-utilities/blob/master/README.md#built-with)
 
 ## Cloning the repository
 
