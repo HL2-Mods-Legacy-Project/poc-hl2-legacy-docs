@@ -28,6 +28,9 @@ cd scripts
 
 ```text
 git submodule update --remote --recursive
+git add .
+git commit -m "Update submodules"
+git push
 ```
 
 ### Mod Installer
