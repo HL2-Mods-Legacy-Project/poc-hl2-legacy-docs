@@ -44,12 +44,6 @@ git commit -m "Update submodule mod-installer"
 git push
 ```
 
-Open PowerShell and do the following:
-
-```powershell
-gitmodules\utilities\submodule-update.ps1 gitmodules\mod-installer
-```
-
 #### Change the branch
 
 Open PowerShell and do the following:
