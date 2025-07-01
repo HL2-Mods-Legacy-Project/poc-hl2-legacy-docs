@@ -24,6 +24,12 @@ cd scripts
 
 ## Submodules
 
+### Update all submodules
+
+```text
+git submodule update --remote --recursive
+```
+
 ### Mod Installer
 
 #### Update
