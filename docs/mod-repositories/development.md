@@ -46,10 +46,13 @@ git push
 
 #### Change the branch
 
-Open PowerShell and do the following:
-
-```powershell
-gitmodules\utilities\submodule-set-branch.ps1 gitmodules\mod-installer <branch>
+```text
+git submodule update --remote --recursive gitmodules/mod-installer
+git submodule set-branch -b <branch> gitmodules/mod-installer
+git submodule update --remote --recursive gitmodules/mod-installer
+git add .
+git commit -m "Change submodule gitmodules/mod-installer branch."
+git push
 ```
 
 ### Utilities
