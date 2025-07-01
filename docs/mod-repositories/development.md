@@ -37,6 +37,13 @@ git push
 
 #### Update
 
+```text
+git submodule update --remote --recursive gitmodules/mod-installer
+git add .
+git commit -m "Update submodule mod-installer"
+git push
+```
+
 Open PowerShell and do the following:
 
 ```powershell
@@ -55,8 +62,9 @@ gitmodules\utilities\submodule-set-branch.ps1 gitmodules\mod-installer <branch>
 
 #### Update
 
-Open PowerShell and do the following:
-
-```powershell
-gitmodules\utilities\submodule-update.ps1 gitmodules\utilities
+```text
+git submodule update --remote --recursive gitmodules/utilities
+git add .
+git commit -m "Update submodule utilities"
+git push
 ```
