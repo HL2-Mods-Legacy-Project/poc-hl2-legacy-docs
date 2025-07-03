@@ -2,10 +2,6 @@
 
 Legacy HL2 mods common documentation proof of concept (POC) - only for development purposes.
 
-## Supported Platforms
-
-- Windows 11
-
 ## Documentation
 
 ### Mod repositories
