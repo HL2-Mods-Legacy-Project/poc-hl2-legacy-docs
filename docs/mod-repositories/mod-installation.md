@@ -1,8 +1,12 @@
 # Mod Installation
 
-> **Important!** If it's a <u>multiplayer</u> mod, game plugins and/or other programs may be available for it. It's **recommended** to disable [Valve Anti-Cheat](https://developer.valvesoftware.com/wiki/Valve_Anti-Cheat) to prevent unintended false positive ban. See [Disable VAC](#disable-vac).
+## Supported Platforms
+
+- Windows 11
 
 ## Installation
+
+> **Important!** If it's a <u>multiplayer</u> mod, game plugins and/or other programs may be available for it. It's **recommended** to disable [Valve Anti-Cheat](https://developer.valvesoftware.com/wiki/Valve_Anti-Cheat) to prevent unintended false positive ban. See [Disable VAC](#disable-vac).
 
 ### 1. Go to the Releases page
 
